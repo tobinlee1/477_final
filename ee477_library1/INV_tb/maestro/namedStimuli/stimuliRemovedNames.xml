@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<stimuliremovedset>
+    <namedstimuli>
+        <stimuliname>DUT_in</stimuliname>
+    </namedstimuli>
+    <namedstimuli>
+        <stimuliname>out_a</stimuliname>
+    </namedstimuli>
+</stimuliremovedset>

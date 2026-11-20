@@ -1,0 +1,22 @@
+//Revision 6
+//NOTE
+// Default template for spectre
+// Note:
+//      Please remember to replace Top Cell Library, Cell, and View
+//      fields with the actual names used by your design.
+//END_NOTE
+
+config INV_tb;
+design ee477_library1.INV_tb:schematic;
+liblist GSCLIB045, analogLib, basic, ee477_library1, gpdk045, gsclib045, gsclib045_tech;
+
+viewlist spectre, cmos_sch, \cmos.sch , schematic, veriloga, ahdl, pspice, dspf;
+stoplist spectre;
+
+
+cell ee477_library1.INV binding :av_extracted;
+inst (ee477_library1.INV_tb:schematic).I1 binding :schematic;
+inst (ee477_library1.INV_tb:schematic).I2 binding :schematic;
+
+
+endconfig
