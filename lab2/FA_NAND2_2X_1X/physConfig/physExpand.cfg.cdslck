@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      tobinlee
+HostName                       viterbi-scf01.vlab.usc.edu
+ProcessIdentifier              27796
+ProcessCreationTime_UTC        1792301818
+ProcessCreationTime_Readable   Sat Oct 17 22:36:58 2026 PDT
+AppIdentifier                  /tools/cadence/IC251/tools/dfII/bin/64bit/virtuoso
+OSType                         lnx86
+ReasonForPlacingEditLock       
+FilePathUsedToEditLock         /home/tobinlee@vlab.usc.edu/work_gpdk045/lab2/FA_NAND2_2X_1X/physConfig/physExpand.cfg
+TimeEditLocked                 Sat Oct 17 23:23:34 2026 PDT
