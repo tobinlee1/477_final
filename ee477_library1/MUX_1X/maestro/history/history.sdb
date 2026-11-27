@@ -3,13 +3,13 @@
 	<active>Active Setup</active>
 	<history>History
 		<historyentry assemblerOrExplorer="explorer" roOrView="view" runningOrFinished="finished">ExplorerRun.0
-			<timestamp>Nov 2 13:01:06 2026</timestamp>
-			<uuid>{3aa35a14-7226-4b8c-9069-1c354523353d}</uuid>
+			<timestamp>Nov 24 23:23:26 2026</timestamp>
+			<uuid>{7e8d7b32-3b4a-48a4-8dd8-989a27549440}</uuid>
 			<locked>0</locked>
 			<mode>Single Run, Sweeps and Corners</mode>
-			<resultsname>/home/kevinn46@vlab.usc.edu/work_gpdk045/ee477_library1/MUX_1X/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
+			<resultsname>/home/tobinlee@vlab.usc.edu/work_gpdk045/477_final/ee477_library1/MUX_1X/maestro/results/maestro/$AXL_HISTORY_NAME.rdb</resultsname>
 			<simresults>$AXL_SETUPDB_DIR/results/maestro/$AXL_HISTORY_NAME.rdb</simresults>
-			<psfdir>/home/kevinn46@vlab.usc.edu/simulation/ee477_library1/MUX_1X/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
+			<psfdir>/home/tobinlee@vlab.usc.edu/simulation/ee477_library1/MUX_1X/maestro/results/maestro/$AXL_HISTORY_NAME</psfdir>
 			<simdir>$AXL_PROJECT_DIR/ee477_library1/MUX_1X/maestro/results/maestro/$AXL_HISTORY_NAME</simdir>
 			<historyPsfSize>Not Computed</historyPsfSize>
 		</historyentry>
